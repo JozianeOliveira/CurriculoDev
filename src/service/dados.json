@@ -1,0 +1,85 @@
+{
+  "profile": {
+    "img": "https://lh3.googleusercontent.com/a/ACg8ocLa1yQed2mz2xMdnnhYkDsx4PR8pz75FSpKvK5THvKp21eqhPE=s96-c-rg-br100",
+    "nome": "Joziane",
+    "sobrenome": "Oliveira",
+    "cidade": "São gotardo",
+    "estado": "MG",
+    "contato": "(34) 99808-1082",
+    "email": "jozioliveira@edu.uniube.br",
+    "biografia": "Profissional em transição de carreira para a área de tecnologia, com formação em Matemática e Análise e Desenvolvimento de Sistemas, com experiência prática em desenvolvimento de software e análise de dados através de projetos pessoais, disponíveis no meu portfólio em construção no GitHub, destacando projetos em Java, Python, HTML, CSS, JavaScript e Power BI. Experiência anterior em comunicação e tecnologia educacional, incluindo criação de conteúdos digitais e gestão de plataformas tecnológicas. Habilidades adicionais em atendimento ao cliente, com forte capacidade de comunicação, resolução de problemas e suporte em diferentes canais (presencial, WhatsApp, telefone). Em busca de oportunidades em testes de software, análise de dados, desenvolvimento front-end e back-end, e em outros setores da área de tecnologia. Focando em aprimorar habilidades e contribuir para o desenvolvimento de soluções inovadoras, bem como para a melhoria contínua de processos e produtos. ",
+    "linkedin": "https://www.linkedin.com/in/joziane-oliveira/",
+    "github": "https://github.com/JozianeOliveira",
+    "experiencia": [
+      {
+        "id": 1,
+        "cargo": "Assessora de Comunicação ",
+        "empresa": "Prefeitura Municipal de São Gotardo",
+        "periodo": "Outubro 2023 - Emprego Atual",
+        "atividades": "Responsável pelo gerenciamento das redes sociais da @prefeituradesaogotardo, incluindo criação e edição de conteúdos visuais. Cobertura completa de eventos, com registro em fotos e vídeos, para divulgação nas redes sociais oficiais. Expertise na criação de banners, layouts, convites, certificados e materiais comemorativos requisitados pela prefeitura. Desenvolvimento de vídeos, fotos e artes para campanhas de divulgação e comunicação institucional. Colaboração na elaboração de materiais jornalísticos sobre temas relevantes à prefeitura e suas ações. Atuação no auxílio ao plano de comunicação em conjunto com a prefeita e secretários municipais, alinhando estratégias."
+      },
+      {
+        "id": 2,
+        "cargo": "Instrutora e Técnica de Informática",
+        "empresa": "Prefeitura Municipal de São Gotardo",
+        "periodo": "Fevereiro 2022 - Setembro 2023",
+        "atividades": "Responsável pela instalação e manutenção de computadores, impressoras e equipamentos eletrônicos nos CMEIs Primeiros Passos e Ana Maria Mendes Ordones. Experiência comprovada em ministrar aulas de informática, adaptando o conteúdo às necessidades dos alunos. Desenvolvimento de campos para disciplinas anuais no diário escolar digital, facilitando o preenchimento pelos professores. Criação de tutoriais para docentes sobre uso de tecnologias e preenchimento do diário escolar digital. Registro e documentação de eventos e atividades, com inclusão no drive institucional das escolas. Gerenciamento das redes sociais das instituições, promovendo a comunicação e engajamento."
+      },
+      {
+        "id": 3,
+        "cargo": "Professora",
+        "empresa": "Estado de Minas Gerais",
+        "periodo": "Fevereiro 2022 - Dezembro 2023",
+        "atividades": " Responsável pelo ensino de matemática, física e português para o ensino fundamental, médio e EJA em escolas estaduais. Planejamento estratégico de aulas e execução de projetos didáticos alinhados aos objetivos educacionais. Desenvolvimento de atividades e materiais didáticos inovadores, visando a aprendizagem ativa dos alunos. Colaboração na elaboração e revisão do Projeto Político-Pedagógico (PPP) das escolas. Aplicação e correção de avaliações, garantindo a avaliação contínua do desempenho dos estudantes. "
+      },
+      {
+        "id": 4,
+        "cargo": "Atendimento ao Público ",
+        "empresa": "Supermercado Mirante",
+        "periodo": "Setembro 2021 - Fevereiro 2022",
+        "atividades": " Responsável pelo atendimento ao público, com recepção e esclarecimento de dúvidas dos clientes presencialmente. Atendimento via WhatsApp e telefone, gerenciando recebimento, organização e encaminhamento de pedidos.  "
+      },
+      {
+        "id": 5,
+        "cargo": "Social Media ",
+        "empresa": "Sacolão Horta Verde",
+        "periodo": "Janeiro 2019 - Agosto 2021",
+        "atividades": " Responsável pelo gerenciamento das redes sociais @hortaverdesg e @passaros_exoticosecia_sg, com criação e publicação de conteúdos. Desenvolvimento de fotos e vídeos promocionais para divulgação de produtos e promoções nas redes sociais. Atendimento ao público via mensagens, garantindo suporte ágil e eficaz aos clientes. Criação de catálogos digitais para facilitar a visualização e compra dos produtos oferecidos. "
+      }
+      
+    ],
+    "habilidades": [
+      "Programação: Python, Java, JavaScript",
+      "Desenvolvimento Web: HTML, CSS, React",
+      "Análise de Dados: Power BI, SQLNode.js",
+      "Ferramentas de Gerenciamento: Git, GitHub, Trello, MS Office, Google WorkspaceHTML",
+      "Design Gráfico e Produção de Conteúdo: Canva, Gimp, Capcut"
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": "CurriculoDev",
+        "description": "Projeto em React.js focado na criação de componentes reutilizáveis para um currículo online, com o objetivo de demonstrar habilidades técnicas e projetos profissionais, com interfaces de usuário intuitivas e dinâmicas, utilizando tecnologias modernas de desenvolvimento front-end.",
+        "githubLink": "https://github.com/JozianeOliveira/CurriculoDev"
+      },
+              {
+          "id": 2,
+          "name": "ControlePedidosLanchonete",
+          "description": "Sistema de controle de pedidos para lanchonetes utilizando Python, com o objetivo de facilitar o processo de atendimento e gestão de pedidos. Este projeto inclui diversas funcionalidades que proporcionam uma interface intuitiva e eficiente para o usuário.",
+          "githubLink": "https://github.com/JozianeOliveira/ControlePedidosLanchonete"
+        },
+        {
+          "id": 3,
+          "name": "FabricaAuto",
+          "description": "Desenvolvimento de um software de automatização para uma fábrica de automóveis, focado na criação de um módulo para cadastro de carros e motos. Utilizando a IDE NetBeans, foram implementadas classes orientadas a objetos como Automovel, Carro e Moto, abordando atributos comuns e específicos de cada tipo de veículo. O projeto envolveu a criação de métodos para controlar ações como ligar, mover, parar e operar funcionalidades específicas de carros e motos, contribuindo para o aprimoramento do processo de fabricação e gestão de veículos na fábrica.",
+          "githubLink": "https://github.com/JozianeOliveira/fabricaAuto"
+        },
+        {
+          "id": 4,
+          "name": "HTML/CSS",
+          "description": "Projeto com páginas web interativas utilizando HTML e CSS, com o objetivo de praticar e aplicar os conceitos fundamentais dessas tecnologias. O projeto abrange uma ampla gama de funcionalidades e elementos que são essenciais para a criação de páginas web modernas,responsivas e acessíveis.",
+          "githubLink": "https://github.com/JozianeOliveira/HTML-CSS"
+        }
+      ]
+  }
+}
